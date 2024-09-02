@@ -6,16 +6,19 @@
     width: 100%;
     height: auto;
     background-color: darkblue;
+    
 }
 
-.navbar h1{
+.navbar {
     color: white;
+    
 }
 .navbar ul li a{
     color:white;
     text-decoration: none;
     text-align: center;
     flex-direction: colu;
+    display: inline;
 }
 
 ul li{
