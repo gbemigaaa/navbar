@@ -19,8 +19,22 @@
     text-align: center;
     flex-direction: colu;
     display: inline;
+    margin: 10px;
 }
 
 ul li{
 display: inline;
+}
+
+.logo {
+    font-size: 50px;
+    margin: 10px;
+    padding-right: 100px;
+    
+}
+.items{
+ padding: 5px;
+ font-size: 20px;
+ font-family: arial;
+
 }
