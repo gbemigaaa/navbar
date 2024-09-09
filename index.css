@@ -16,8 +16,6 @@
 .navbar ul li a{
     color:white;
     text-decoration: none;
-    text-align: center;
-    flex-direction: colu;
     display: inline;
     margin: 10px;
 }
@@ -37,4 +35,7 @@ display: inline;
  font-size: 20px;
  font-family: arial;
 
+}
+.navbar a:hover{
+    background-color: darkgrey;
 }
